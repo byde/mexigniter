@@ -1,0 +1,37 @@
+/* CSS Document */
+
+#wrapper {
+	border: 3px solid #718AA5;
+	width:auto;
+	height:auto;
+	margin:15px;
+	}
+#opciones {
+	vertical-align:middle;
+	background-color: #718AA5;
+	height:30px;
+	width:100%;
+	}
+img {
+		vertical-align:middle;
+		border:0;
+		margin: 3px;
+}
+
+.archivos {
+		width:100px;
+		height:100px;
+		vertical-align:bottom;
+	display::inline;
+	text-align:center;
+	margin:2px;
+	}
+	.archivosa{
+		text-decoration:none;
+		width:100px;
+		height:100px;
+	display:block;
+	}
+	a.archivosa:hover{
+		background-color:#BBC7D5;
+		}
